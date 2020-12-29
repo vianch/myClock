@@ -1,0 +1,8 @@
+{
+  "name": "myClock",
+  "version": "1.0.0",
+  "description": "Custom clock in JavaScript",
+  "main": "index.js",
+  "author": "Victor <vachavarro@gmail.com>",
+  "license": "MIT"
+}
